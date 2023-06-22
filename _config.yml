@@ -9,3 +9,7 @@ colors:
   color-green: #59A893;
   color-yellow: #F7D763;
 
+logo:
+  logo: logo.jpg
+
+enable_fixed_header: true
